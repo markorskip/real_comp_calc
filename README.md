@@ -28,3 +28,6 @@ heroku local
 
 ### Other commands
 npm prune - use this to remove unused dependencies
+
+Run production locally:  
+serve -s dist
